@@ -6,6 +6,16 @@ A CLI that search SQL-like string from source codes.
 
 - Search SQL-like String like `SELECT` or `WHERE` or `FROM"` in JavaScript source code
 
+## Supports Language
+
+- [x] JavaScript
+- [ ] TypeScript
+
+## Supports Syntax
+
+- [x] Template Literal
+- [ ] Strings
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):

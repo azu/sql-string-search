@@ -68,6 +68,7 @@
     "@types/acorn": "^4.0.5",
     "@types/estree": "^0.0.44",
     "acorn": "^7.1.1",
+    "debug": "^4.1.1",
     "estree-walker": "^2.0.1",
     "globby": "^11.0.0",
     "meow": "^6.1.0"
